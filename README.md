@@ -1,5 +1,4 @@
-#Axios
-
+# Axios
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![npm downloads](https://img.shields.io/npm/dm/axios.svg?style=flat-square)](http://npm-stat.com/charts.html?package=axios)
@@ -7,8 +6,7 @@
 
 **Documentation** https://github.com/axios/axios
 
-##Installing
-
+## Installing
 
   1) Using npm: 
 
